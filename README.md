@@ -2,6 +2,13 @@
 
 Google Apps Script와 Gemini API를 활용한 무역구제 동향 자동 모니터링 시스템입니다.
 
+## 발송 이메일 샘플
+
+![이메일 샘플]
+<img width="1287" height="802" alt="image" src="https://github.com/user-attachments/assets/1cdb485e-9abd-4c87-a0ae-f998f468c2ec" />
+
+> 매일 오전 6시 자동 발송되는 무역 동향 AI 요약 이메일입니다.
+
 ## 배경
 
 미국 세관청(CBP), 무역위원회(KTC), 인도 DGTR 등 주요 기관의 무역구제 동향을
